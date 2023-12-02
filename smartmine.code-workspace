@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Users\\Florian\\new-workspace\\bukkit-api\\spigot-api-1.20.2-R0.1-SNAPSHOT.jar"
+		],
+		"java.dependency.syncWithFolderExplorer": true,
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}

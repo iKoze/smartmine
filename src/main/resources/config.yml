@@ -1,0 +1,33 @@
+motd: §6Willkommen %u. Viel Spaß beim suchten :D
+
+panic-room:
+    enabled: true
+    cost: 1
+    message: §6Wir haben dir einen Panik-Raum gegeben. Das hat dich 1 Level gekostet.
+    failmessage: §cDieser Befehl kostet 1 Level!
+
+prevent0r:
+    path: /var/minedb/users/%u/pvnt0r.ip
+    okmessage: §aPrevent0r IP %i
+    errmessage: §cPrevent0r disabled for %u!
+    logoutmessage: §aLogged %u out.
+    exitmessage: Bis Bald %u.
+    kickmessage: §cLogin Prevented for %u by Prevent0r!
+    onmessage: §aPrevent0r ist an :D
+    offmessage: §cPrevent0r ist aus :(
+    
+onffline:
+    path: /var/minedb/onffline/%u
+    
+sensenmann:
+    enabled: false
+    message: §e%u ist beim Sensenmann %s gespawnt.
+    
+tuerchen:
+    notdecember: Es ist leider nicht Dezember.
+    nothing: Hinter diesem Türchen befindet sich nichts.
+    hasalready: Du hast dieses Türchen bereits geöffnet.
+    1:
+        id: 00
+        count: 0
+        message: Hinter diesem Türchen befindet sich luft!

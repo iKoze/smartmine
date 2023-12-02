@@ -1,3 +1,3 @@
 # Smartmine
 
-Version information can be found [/src/main/resources/plugin.yml](here).
+Version information can be found [here](/src/main/resources/plugin.yml).
